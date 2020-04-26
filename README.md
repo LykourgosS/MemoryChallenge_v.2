@@ -1,2 +1,2 @@
 # MemoryChallenge_v.2
-memory game
+A memory game, developed using Windows Forms Application.
